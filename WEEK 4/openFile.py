@@ -9,8 +9,8 @@ write = open("write", "w")
 write.write("Code with Evans, This is evansify") # This writes data once and this data file can be replaced
 
 # How To Append a File
-# write = open("write", "a")
-# write.write(" This is Awesome") # This writes data once and this data file can be replaced
+write = open("write", "a")
+write.write(" This is Awesome") # This writes data once and this data file can be replaced
 
 
 # Merge data from different files
@@ -20,8 +20,8 @@ for data in f:
 
 # Reading an Image
 image = open("Intasend.png", "rb")
-# for i in image:
-#     print(i)
+for i in image:
+    print(i)
 
 # Copying the image into another file
 
