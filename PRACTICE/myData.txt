@@ -1,0 +1,19 @@
+Welcome to Todays Session
+Today it's gonna be awesome
+Python provides multiple ways to read file contents
+Closing Files
+Writing & Appending to Files
+
+
+ This is a write test, 
+ Hello world
+ This is a write test, 
+ Hello world
+ This is a write test, 
+ Hello world
+ This is a write test, 
+ Hello world
+ This is a write test, 
+ Hello world
+ This is a write test, 
+ Hello world
