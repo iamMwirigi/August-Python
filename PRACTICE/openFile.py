@@ -1,7 +1,10 @@
 # import os
-# file = open('../Introduction/myData.txt', 'r')
 
-# print(file.read())
+a = 10
+print(a)
+
+file = open('myData.txt', '')
+print(file)
 
 
 # writeDoc = open("myData.txt","a" )
@@ -12,6 +15,23 @@
 # newDoc.write("This is  a new document that we have created, Edited Text")
 
 # os.remove("NewDoc.txt")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 try:
