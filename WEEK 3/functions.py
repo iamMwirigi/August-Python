@@ -4,8 +4,19 @@ def func_name():
 func_name()
 
 
+def myFunc():
+    ...
+
+print("Hello world")
+
+a = 23
+
+print(a)
 
 
+
+class MyName():
+    ...
 
 
 
