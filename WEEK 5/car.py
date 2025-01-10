@@ -11,4 +11,3 @@ class Car:
 
     def stop(self):
         return f"The {self.color} {self.make} {self.model} stops."
-
