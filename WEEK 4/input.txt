@@ -1,0 +1,5 @@
+Hello world!
+Python is fun.
+I love coding.
+File handling is important.
+Keep learning and improving.
